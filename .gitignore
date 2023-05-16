@@ -5,5 +5,6 @@ convert_to_8_bit.ipynb
 venv
 torch_test.ipynb
 create_road_mask_w_overpass.ipynb
-compressed_image_to_jpeg.ipynb
 SimplePipilne_w_count_metrics.ipynb
+benchmarks
+true_vector_masks
