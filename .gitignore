@@ -6,7 +6,6 @@ venv
 WindowWriterTest.ipynb
 torch_test.ipynb
 create_road_mask_w_overpass.ipynb
-SimplePipilne_w_count_metrics.ipynb
 benchmarks
 true_vector_masks
 __pycache__
